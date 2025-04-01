@@ -1,0 +1,14 @@
+vector<vnode *> matrix2list(vector<vector<int> M) 
+{ 
+    int n = M.size(); 
+    
+    int i, j; // for traversing the 2-dimensional vector M 
+    
+    vector<vnode *> alist(n,nullptr); // all lists initially empty 
+    
+        /////// your code
+
+    
+  
+    return alist; 
+} 
